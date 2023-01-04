@@ -23,7 +23,7 @@
     "p-map": "4.0.0",
     "pluralize": "^8.0.0",
     "rimraf": "3.0.2",
-    "strapi-utils": "3.6.11"
+    "strapi-utils": "https://gitlab.com/monnier-freres/strapi-utils.git"
   },
   "peerDependencies": {
     "knex": "0.21.18"
